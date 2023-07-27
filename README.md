@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is an ongoing endeavor created solely for the purpose of enhancing Java programming skills and gaining a deeper understanding of the language. It is not intended for production use or commercial purposes. The main objective is to explore various Java concepts, implement different algorithms, and practice coding in a real-world scenario.
+This project is an ongoing created solely for the purpose of enhancing Java programming skills and gaining a deeper understanding of the language. It is not intended for production use or commercial purposes. The main objective is to explore various Java concepts, implement different algorithms, and practice coding in a real-world scenario.
 
 ## Purpose
 
